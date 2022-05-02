@@ -1,0 +1,13 @@
+'gym[mujoco,atari,classic_control,robotics]',
+          'scipy',
+          'tqdm',
+          'joblib',
+          'zmq',
+          'dill',
+          'progressbar2',
+          'mpi4py',
+          'cloudpickle',
+          'tensorflow>=1.4.0',
+          'click',
+          'opencv-python'
+
